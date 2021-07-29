@@ -1,1 +1,1 @@
-This is a test. Hopefully it will lead to a merge conflict
+Hello! I am editing this file. Because I am editing this file, it now contains text. That's pretty cool!
